@@ -1,31 +1,31 @@
 Bank Name,Incorporated Year,Number of Branches,AUM (Crores),MSME  Loans  (Crores),Deposit Base (Rs crore),Number  of Loan Accounts,Technology maturity , Loan Origination System,Lending Operation Type,Digital Lending Guideline Maturity,State,City,Region,Entity_Type
-Axis Bank Ltd.,1993,5876,965068,Unknown,1068641,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
-HDFC Bank Ltd,1994,9455,2643500,Unknown,2714700,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
-Bandhan Bank Ltd.,2015,6300,137902,Unknown,151209,33500000,Advanced,In-house,Branch-based and hub-based,Medium,West Bengal,Kolkata,East ,Bank
-CSB Bank Limited,1920,829,31842,Unknown,36861,,Advanced,Third Party,Branch-based and hub-based,Medium,Kerala,Thrissur,South ,Bank
-City Union Bank Ltd.,1904,875,53066,Unknown,63526,,Advanced,Third Party,Centralised digital with branch assistance,High,Tamil Nadu,Kumbakonam,South ,Bank
-DCB Bank Ltd.,1930,465,51047,Unknown,60031,2500000,Advanced,Third Party,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
-Dhanlaxmi Bank Ltd.,1927,261,12206,Unknown,16013,,Mature,DigitalBank,Branch-based and hub-based,Medium,Kerala,Thrissur,South ,Bank
+Axis Bank Ltd.,1993,5876,965068.00,Unknown,1068641.00,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
+HDFC Bank Ltd,1994,9455,2643500.00,Unknown,2714700.00,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
+Bandhan Bank Ltd.,2015,6300,137902.00,Unknown,151209.00,33500000.00,Advanced,In-house,Branch-based and hub-based,Medium,West Bengal,Kolkata,East ,Bank
+CSB Bank Limited,1920,829,31842.00,Unknown,36861.00,,Advanced,Third Party,Branch-based and hub-based,Medium,Kerala,Thrissur,South ,Bank
+City Union Bank Ltd.,1904,875,53066.00,Unknown,63526.00,,Advanced,Third Party,Centralised digital with branch assistance,High,Tamil Nadu,Kumbakonam,South ,Bank
+DCB Bank Ltd.,1930,465,51047.00,Unknown,60031.00,2500000.00,Advanced,Third Party,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
+Dhanlaxmi Bank Ltd.,1927,261,12206.00,Unknown,16013.00,,Mature,DigitalBank,Branch-based and hub-based,Medium,Kerala,Thrissur,South ,Bank
 Federal Bank Ltd.,1931,1591,241204.34,Unknown,287436.31,,Advanced,Third Party,Centralised digital with branch assistance,High,Kerala,Aluva,South ,Bank
-ICICI Bank Ltd.,1994,3678,1341766,Unknown,1610348,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
-IndusInd Bank Ltd,1994,3040,357159,Unknown,412317,41000000,Advanced,In-house,Branch-based and hub-based,High,Maharashtra,Mumbai,West ,Bank
-IDFC FIRST Bank Limited,2015,1016,253233,"203,954","256,799",35000000,Basic,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
-Karnataka Bank Ltd.,1924,900,74267,Unknown,"103,242",,Mature,Under Implementation,Branch-based and hub-based, Medium,Karnataka,Mangaluru,South ,Bank
-Karur Vysya Bank Ltd.,1916,838,74423,"14,885","89,113",370000,Mature,In-house,Centralised digital with branch assistance,Medium,Tamil Nadu,Karur,South ,Bank
-Kotak Mahindra Bank Ltd,2003,"2,154",458950,"88,800","512,838","160,000",Advanced,DigitalBank,Hybrid,High,Maharashtra,Mumbai,West ,Bank
-Nainital bank Ltd.,1922,166,4795,"1,200","8,101","35,000",Mature,DigitalBank,Hybrid,Medium,Uttarakhand,Nainital,North ,Bank
-RBL Bank Ltd.,1943,382,90000,"20,000","120,000",,Basic,Unknown,Unknown,Unknown,Maharashtra,Mumbai,West ,Bank
-South Indian Bank Ltd.,1929,948,87578.82,65684.115,"107,525",115000,Basic,DigitalBank,Centralised digital with branch assistance,Medium,Kerala,Thrissur,South ,Bank
-Tamilnad Mercantile Bank Ltd.,1921,578,44365,"12,000","53,688",300000,Mature,Under Implementation,Hybrid,Medium,Tamil Nadu,Thoothukudi,South ,Bank
-Coastal Local Area Bank Ltd,1999,50,740.61,207,855.67,63087,Basic,Unknown,Centralised digital with branch assistance,Medium,Andhra Pradesh,Vijayawada ,South ,Bank
-Au Small Finance Bank Ltd.,1996,616,76617,"28,050",124269,1650000,Basic,In-house,hybrid,High,Rajasthan (registered) — corporate functions also in Mumbai. Region: North (registered) / West (corporate). Note: AU has public reporting about relocating corporate HQ to Mumbai as it moves toward a universal bank — see news. ,Jaipur,North ,Bank
-Capital Small Finance Bank Ltd,1999,195,7184,1509,8323,45182,Basic,Third Party,Hybrid,Medium,Punjab,Jalandhar,North ,Bank
-Equitas Small Finance Bank Ltd,2016,994,37986,20910,40000,312335,Advanced,In-house,Branch-based and hub-based,Medium,Tamil Nadu,Chennai,South ,Bank
-ESAF Small Finance Bank Ltd.,2016,777,19809,5577,21613,3742424,Advanced,Unknown,Centralised digital with branch assistance,High,Kerala,Thrissur,South ,Bank
-Suryoday Small Finance Bank Ltd.,2008,710,10486,30,11312,139000000,Advanced,DigitalBank,Hybrid,Medium,Maharashtra,Mumbai,West ,Bank
-Ujjivan Small Finance Bank Ltd.,2017,753,32122,2047,37617,1219799,Advanced,In-house,Hybrid,Medium,Karnataka,Bengaluru,South ,Bank
-Utkarsh Small Finance Bank Ltd.,2016,1092,19666,3875,21560,2900000,Mature,In-house,Centralised digital with branch assistance,Medium,Uttar Pradesh,Varanasi,North ,Bank
-slice Small Finance Bank Ltd.,2016,180,2905,167,2418,400000,Mature,In-house,Centralised digital with branch assistance,Medium,Assam,Guwahati,East ,Bank
-Jana Small Finance Bank Ltd,2006,802,29545,53.11,"29,120",400000,Mature,Unknown,Centralised digital with branch assistance,Medium,Karnataka,Bengaluru,South ,Bank
-Shivalik Small Finance Bank Ltd,1998,192,2970,963.46,3161,1000000,Advanced,DigitalBank,Centralised digital with branch assistance,Medium,Delhi (NCT) / NCR — Region: North. ,New Delhi,North ,Bank
-Unity Small Finance Bank Ltd,2021,326,10985,6371.3,11952,30000,Advanced,DigitalBank,Hybrid,Medium,Maharashtra,Mumbai,West ,Bank
+ICICI Bank Ltd.,1994,3678,1341766.00,Unknown,1610348.00,,Advanced,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
+IndusInd Bank Ltd,1994,3040,357159.00,Unknown,412317.00,41000000.00,Advanced,In-house,Branch-based and hub-based,High,Maharashtra,Mumbai,West ,Bank
+IDFC FIRST Bank Limited,2015,1016,253233.00,"203,954",256799.00,35000000.00,Basic,In-house,Centralised digital with branch assistance,High,Maharashtra,Mumbai,West ,Bank
+Karnataka Bank Ltd.,1924,900,74267.00,Unknown,103242.00,,Mature,Under Implementation,Branch-based and hub-based, Medium,Karnataka,Mangaluru,South ,Bank
+Karur Vysya Bank Ltd.,1916,838,74423.00,"14,885",89113.00,370000.00,Mature,In-house,Centralised digital with branch assistance,Medium,Tamil Nadu,Karur,South ,Bank
+Kotak Mahindra Bank Ltd,2003,2154,458950.00,"88,800",512838.00,160000.00,Advanced,DigitalBank,Hybrid,High,Maharashtra,Mumbai,West ,Bank
+Nainital bank Ltd.,1922,166,4795.00,"1,200",8101.00,35000.00,Mature,DigitalBank,Hybrid,Medium,Uttarakhand,Nainital,North ,Bank
+RBL Bank Ltd.,1943,382,90000.00,"20,000",120000.00,,Basic,Unknown,Unknown,Unknown,Maharashtra,Mumbai,West ,Bank
+South Indian Bank Ltd.,1929,948,87578.82,65684.115,107525.00,115000.00,Basic,DigitalBank,Centralised digital with branch assistance,Medium,Kerala,Thrissur,South ,Bank
+Tamilnad Mercantile Bank Ltd.,1921,578,44365.00,"12,000",53688.00,300000.00,Mature,Under Implementation,Hybrid,Medium,Tamil Nadu,Thoothukudi,South ,Bank
+Coastal Local Area Bank Ltd,1999,50,740.61,207,855.67,63087.00,Basic,Unknown,Centralised digital with branch assistance,Medium,Andhra Pradesh,Vijayawada ,South ,Bank
+Au Small Finance Bank Ltd.,1996,616,76617.00,"28,050",124269.00,1650000.00,Basic,In-house,hybrid,High,Rajasthan,Jaipur,North ,Bank
+Capital Small Finance Bank Ltd,1999,195,7184.00,1509,8323.00,45182.00,Basic,Third Party,Hybrid,Medium,Punjab,Jalandhar,North ,Bank
+Equitas Small Finance Bank Ltd,2016,994,37986.00,20910,40000.00,312335.00,Advanced,In-house,Branch-based and hub-based,Medium,Tamil Nadu,Chennai,South ,Bank
+ESAF Small Finance Bank Ltd.,2016,777,19809.00,5577,21613.00,3742424.00,Advanced,Unknown,Centralised digital with branch assistance,High,Kerala,Thrissur,South ,Bank
+Suryoday Small Finance Bank Ltd.,2008,710,10486.00,30,11312.00,139000000.00,Advanced,DigitalBank,Hybrid,Medium,Maharashtra,Mumbai,West ,Bank
+Ujjivan Small Finance Bank Ltd.,2017,753,32122.00,2047,37617.00,1219799.00,Advanced,In-house,Hybrid,Medium,Karnataka,Bengaluru,South ,Bank
+Utkarsh Small Finance Bank Ltd.,2016,1092,19666.00,3875,21560.00,2900000.00,Mature,In-house,Centralised digital with branch assistance,Medium,Uttar Pradesh,Varanasi,North ,Bank
+slice Small Finance Bank Ltd.,2016,180,2905.00,167,2418.00,400000.00,Mature,In-house,Centralised digital with branch assistance,Medium,Assam,Guwahati,East ,Bank
+Jana Small Finance Bank Ltd,2006,802,29545.00,53.11,29120.00,400000.00,Mature,Unknown,Centralised digital with branch assistance,Medium,Karnataka,Bengaluru,South ,Bank
+Shivalik Small Finance Bank Ltd,1998,192,2970.00,963.46,3161.00,1000000.00,Advanced,DigitalBank,Centralised digital with branch assistance,Medium,Delhi,New Delhi,North ,Bank
+Unity Small Finance Bank Ltd,2021,326,10985.00,6371.3,11952.00,30000.00,Advanced,DigitalBank,Hybrid,Medium,Maharashtra,Mumbai,West ,Bank
