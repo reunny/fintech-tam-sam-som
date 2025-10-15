@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import chardet
 from modules.calculations import compute_tam, compute_sam, compute_som
 
 # --- Page Setup ---
@@ -7,8 +8,12 @@ st.set_page_config(page_title="Finvij TAM/SAM/SOM Estimator", layout="wide")
 st.title("📊 Finvij TAM / SAM / SOM Dashboard")
 
 # --- Load Data ---
-banks = pd.read_csv("data/Banks_NewList.csv")
-nbfcs = pd.read_csv("data/NBFC_NewList.csv")
+with open("data/Banks_NewList.csv", 'rb') as f:
+    result = chardet.detect(f.read(50000))
+banks_encoding = result['encoding']
+
+banks = pd.read_csv("data/Banks_NewList.csv", encoding=banks_encoding, on_bad_lines='skip')
+nbfcs = pd.read_csv("data/NBFC_NewList.csv", encoding='cp1252', on_bad_lines='skip')
 
 st.sidebar.header("Operational Inputs")
 
